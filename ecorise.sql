@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-12:52
 create schema ecorise_company;
 create table ecorise_company.trader(
 trader_id VARCHAR(10) primary key,
